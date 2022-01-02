@@ -40,5 +40,7 @@ Add me on Discord! cyber#3709
 Here's the support server invite: https://discord.gg/EwY2aZMn6t
 
 ### Contributions
-
 Any useful contribution is welcome, but preference will be given to those who can solve the drawback issues or implement the roadmap features in their PR, happy coding!
+
+### Compatibility 
+Currently tested for Windows 10 with Python 3.9.9 issues related to reports on other systems can be opened.
