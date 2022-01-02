@@ -36,5 +36,6 @@ On the roadmap we've got:
 5. Switching between alts
 
 Add me on Discord! cyber#3709
+
 Here's the support server invite: https://discord.gg/EwY2aZMn6t
 
