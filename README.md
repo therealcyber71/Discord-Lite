@@ -6,6 +6,7 @@ A light weight discord client written in Python, for developers, by developers.
   <img src="https://cdn.discordapp.com/attachments/927282382116118602/927289197679763557/logo3.png" alt="Sublime's custom image"/>
 </p>
 Image by https://www.reddit.com/user/Hoodie-the-Wolf/
+
 ## What does "light weight" really mean?
 Light weight, developers use a lot of tools, Git, Visual Studio, and we all know what using Visual Studio is like, and plus StackOverflow for all those queries you gotta ask, you probably also use Discord, it's quite popular for developer communities and gaming too! So to toggle between co-operative workspaces and your IDE, here's Discord Lite, it uses less memory when compared to Discord Client or Google Chrome version of Discord. It also loads GIFs faster, supports Images and Videos too.
 
