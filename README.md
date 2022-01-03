@@ -44,3 +44,6 @@ Any useful contribution is welcome, but preference will be given to those who ca
 
 ### Compatibility 
 Currently tested for Windows 10 with Python 3.9.9 issues related to reports on other systems can be opened.
+
+## Clarifications
+This isn't any serious "client" of such, it's simply Discord Web running in a custom browser to reduce strain on Chrome or the Discord Client which infact is quite heavy and can feast off your RAM, feel free to star the repo if you liked it.
