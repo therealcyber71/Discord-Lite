@@ -50,6 +50,8 @@ This isn't any serious "client" of such, it's simply Discord Web running in a cu
 
 
 ### Using it with pip as a python package
+Here's the link: https://pypi.org/project/discord-lite/
+
 ```bash
 pip3 install discord-lite
 ```
