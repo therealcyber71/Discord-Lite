@@ -47,3 +47,16 @@ Currently tested for Windows 10 with Python 3.9.9 issues related to reports on o
 
 ## Clarifications
 This isn't any serious "client" of such, it's simply Discord Web running in a custom browser to reduce strain on Chrome or the Discord Client which infact is quite heavy and can feast off your RAM, feel free to star the repo if you liked it.
+
+
+### Using it with pip as a python package
+```bash
+pip3 install discord-lite
+```
+and then in your python file
+
+```python
+import discord_lite
+```
+
+and you should be good to go, note that the logo won't load here due to an error, which will be fixed in the next update.
