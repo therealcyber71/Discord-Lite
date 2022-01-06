@@ -62,3 +62,8 @@ import discord_lite
 ```
 
 and you should be good to go, note that the logo won't load here due to an error, which will be fixed in the next update.
+
+## Installation
+To install the `.exe` final head to: https://github.com/Sachit71/Discord-Lite/tree/main/installer and install the installer from there.
+
+Note that this is an installer and not the application itself.
