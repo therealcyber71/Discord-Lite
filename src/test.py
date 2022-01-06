@@ -9,7 +9,7 @@ from PyQt5.QtPrintSupport import *
 import os
 import sys
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
-from threading import Thread
+
 import ray
 
 ray.init()
