@@ -12,9 +12,9 @@ Light weight, developers use a lot of tools, Git, Visual Studio, and we all know
 
 ## Drawbacks
 There are a few drawbacks to the light weighted version ofcourse, and they are:
-1. It can't be used for live streaming.
-2. It can't be used for VC's
-3. It can't be used for screen sharing or video calls
+1. No streaming
+2. Videos don't consistently load
+
 
 and that's about it.
 
@@ -30,10 +30,9 @@ None
 ## Roadmap
 On the roadmap we've got:
 1. Downloading Images using links in the Client
-2. Screenshot Button to quickly screenshot chats
-3. VC and Streaming support
-4. Video call support
-5. Switching between alts
+2.Streaming support
+3. Video Support
+
 
 Add me on Discord! cyber#3709
 
@@ -67,3 +66,5 @@ and you should be good to go, note that the logo won't load here due to an error
 To install the `.exe` final head to: https://github.com/Sachit71/Discord-Lite/tree/main/installer and install the installer from there.
 
 Note that this is an installer and not the application itself.
+
+
