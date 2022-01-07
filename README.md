@@ -31,7 +31,7 @@ None
 On the roadmap we've got:
 1. Downloading Images using links in the Client
 2.Streaming support
-3. Video Support
+
 
 
 Add me on Discord! cyber#3709
@@ -60,11 +60,13 @@ and then in your python file
 import discord_lite
 ```
 
-and you should be good to go, note that the logo won't load here due to an error, which will be fixed in the next update.
+And you should be good to go, note that the logo won't load here due to an error, which will be fixed in the next update.
 
 ## Installation
 To install the `.exe` final head to: https://github.com/Sachit71/Discord-Lite/tree/main/installer and install the installer from there.
-
 Note that this is an installer and not the application itself.
+
+### How to use additional features
+1. Screenshot: You simply have to press the tab key while in the window/tab you are in to take a screenshot.
 
 
