@@ -44,5 +44,6 @@ def screen_shot():
 
 def runner():
     ray.get([class_runner.remote(), screen_shot.remote()])
-runner()
+if __name__ == '__main__':
+    runner()
 
