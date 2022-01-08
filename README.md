@@ -41,7 +41,7 @@ Here's the support server invite: https://discord.gg/EwY2aZMn6t
 ### Contributions
 Any useful contribution is welcome, but preference will be given to those who can solve the drawback issues or implement the roadmap features in their PR, happy coding!
 
-### Compatibility 
+### Compatibility
 Currently tested for Windows 10 with Python 3.9.9 issues related to reports on other systems can be opened.
 
 ## Clarifications
@@ -68,5 +68,3 @@ Note that this is an installer and not the application itself.
 
 ### How to use additional features
 1. Screenshot: You simply have to press the tab key while in the window/tab you are in to take a screenshot.
-
-
