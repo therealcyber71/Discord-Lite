@@ -1,15 +1,11 @@
-
 import sys
 import os
 from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
-from PyQt5.QtGui import *
-from PyQt5.QtWebEngineWidgets import *
-from PyQt5.QtPrintSupport import *
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtGui import QIcon
 import os
 import sys
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
-
 from multiprocessing import Process
 
 
@@ -37,7 +33,6 @@ def class_runner():
     scriptDir = os.path.dirname(os.path.realpath(__file__))
     app.setWindowIcon(QIcon(scriptDir + os.path.sep + 'logo4.png'))
     app.exec_()
-
 def screen_shot():
     import scrotrem
 def runn():
@@ -46,5 +41,5 @@ def runn():
     p2 = Process(target=screen_shot)
     p2.start()
 if __name__ == '__main__':
-    #freeze_support()
+    
     runn()
