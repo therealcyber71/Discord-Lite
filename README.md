@@ -1,70 +1,76 @@
-# Discord-Lite
-A light weight discord client written in Python, for developers, by developers.
+# [![Logo by u/Hoodie-the-Wolf](https://i.imgur.com/D0fAK42.png)](https://www.reddit.com/user/Hoodie-the-Wolf/) Discord-Lite
+A Light-Weight Discord Client written in **Python** for developers, by a developer.
 
+## ❓ Explanation
+You may have possibly heard and used Discord once in your life, right?
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/927282382116118602/927289197679763557/logo3.png" alt="Sublime's custom image"/>
-</p>
-Image by https://www.reddit.com/user/Hoodie-the-Wolf/
+It can be very resource-intensive, especially with other programs running in the background.
 
-## What does "light weight" really mean?
-Light weight, developers use a lot of tools, Git, Visual Studio, and we all know what using Visual Studio is like, and plus StackOverflow for all those queries you gotta ask, you probably also use Discord, it's quite popular for developer communities and gaming too! So to toggle between co-operative workspaces and your IDE, here's Discord Lite, it uses less memory when compared to Discord Client or Google Chrome version of Discord. It also loads GIFs faster, supports Images and Videos, PDF and other documents.
+Hence, why `Discord-Lite` was made.
 
-## Drawbacks
-There are a few drawbacks to the light weighted version ofcourse, and they are:
-1. No streaming
-2. Videos don't consistently load
+It uses less memory and loads GIFs faster compared to the Client and Website version of Discord.\
+It also supports sending & recieving Images, Videos, and other files.
 
+## ⭐ Clarifications
+This isn't any over-the-top "client" of such.\
+This is simply a Discord Web Instance running in a "Custom Browser" to reduce memory usage and *not* feast on your RAM.
 
-and that's about it.
+★ Feel free to leave a [star](https://i.imgur.com/P9YZMnF.gif) on this repo if you liked it! ★
 
+## 👀 Inspiration & Sources
+This is basically a modified version of the [*Geeks For Geeks*](https://www.geeksforgeeks.org/) tutorial on ["How to Make a Web Browser using PyQt5"](https://www.geeksforgeeks.org/creating-a-simple-browser-using-pyqt5/).\
+So, I decided to modify it into a Discord Client since it runs Google Instances so well.
 
-## Inspiration and sources
-This is basically a modified version of the Geeks For Geeks tutorial on how to Make a Web Browser using PyQt5, so I to decided let's modify it and make it a Discord Client since it runs Google so well.
+## 👋 Contributions
+Any useful contribution are welcome.\
+Preference will be given to those who can solve the drawback issues or implement the To-Do List features in their PR.\
+Happy Coding, nonetheless! ^^
 
-Link: https://www.geeksforgeeks.org/creating-a-simple-browser-using-pyqt5/
+## 📃 To-Do List
+> Working Image Links through the client.\
+> Live-Streaming Support.
 
-## Known issues
-None
+## 💢 Drawbacks
+There are a few drawbacks to this, including:
+- Streaming won't work.
+- Videos load **in**consistently.
 
-## Roadmap
-On the roadmap we've got:
-1. Downloading Images using links in the Client
-2.Streaming support
+### ...and that's about it.
 
+## 🛠️ Known issues
+Currently, Version `1.1` contains many bugs including *multiple* ***unnecessary*** tabs upon execution causing your machine to freeze.\
+Also, the logo won't load which will be fixed in the next update.
 
+```Please use an older version (1.0) for now while a hotfix is in-progress.```
 
-Add me on Discord! cyber#3709
+## 💾 Compatibility
+> Tested for Windows 10 with Python 3.9.9.\
+> Issues on other systems can be openly reported.
 
-Here's the support server invite: https://discord.gg/EwY2aZMn6t
-
-### Contributions
-Any useful contribution is welcome, but preference will be given to those who can solve the drawback issues or implement the roadmap features in their PR, happy coding!
-
-### Compatibility
-Currently tested for Windows 10 with Python 3.9.9 issues related to reports on other systems can be opened.
-
-## Clarifications
-This isn't any serious "client" of such, it's simply Discord Web running in a custom browser to reduce strain on Chrome or the Discord Client which infact is quite heavy and can feast off your RAM, feel free to star the repo if you liked it.
-
-
-### Using it with pip as a python package
-Here's the link: https://pypi.org/project/discord-lite/
+## 📎 Installation
+* `pip`
 
 ```bash
 pip3 install discord-lite
 ```
-and then in your python file
+
+..then in your python file:
 
 ```python
 import discord_lite
 ```
 
-And you should be good to go, note that the logo won't load here due to an error, which will be fixed in the next update.
+* Windows
+> Install the `.exe` from this [source.](https://github.com/Sachit71/Discord-Lite/tree/main/installer)
 
-## Installation
-To install the `.exe` final head to: https://github.com/Sachit71/Discord-Lite/tree/main/installer and install the installer from there.
-Note that this is an installer and not the application itself.
+**Note:** This is only the installer that setups the application for you.
 
-### How to use additional features
-1. Screenshot: You simply have to press the tab key while in the window/tab you are in to take a screenshot.
+After that, open `Discord-Lite.exe` from your desktop.\
+You should be able to use Discord just as you can with any other client. :D
+
+## ⌨️ Additional Features
+* Screenshot: Press your `tab` key in the window/tab you are in to take a screenshot.
+
+## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
+Join our [Discord server](https://discord.gg/EwY2aZMn6t) for any further Announcments!\
+If you're in need of any other technical assistance, you may contact me on Discord: `cyber#8664`
