@@ -29,11 +29,12 @@ Happy Coding, nonetheless! ^^
 ## 📃 To-Do List
 > Working Image Links through the client.\
 > Live-Streaming Support.
+> In some instances the VC doesnt work and opens many isntances of discord lite in the second version.\
 
 ## 💢 Drawbacks
 There are a few drawbacks to this, including:
 - Streaming won't work.
-- Videos load **in**consistently.
+- Videos load **in**consistently.(`.mov` videos load properly.)
 
 ### ...and that's about it.
 
