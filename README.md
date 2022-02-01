@@ -52,7 +52,7 @@ Also, the logo won't load which will be fixed in the next update.
 * `pip`
 
 ```bash
-pip3 install discord-lite
+pip3 install discord_lite
 ```
 
 ..then in your python file:
