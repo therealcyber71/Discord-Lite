@@ -27,9 +27,9 @@ Preference will be given to those who can solve the drawback issues or implement
 Happy Coding, nonetheless! ^^
 
 ## 📃 To-Do List
-> Fix audio issues.
-> Make proper wiki and documentation.
-> Solve JavaScript errors through QT.
+> Fix audio issues.\
+> Make proper wiki and documentation.\
+> Solve JavaScript errors through QT.\
 
 ## 💢 Drawbacks
 There are a few drawbacks to this, including:
@@ -41,12 +41,13 @@ There are a few drawbacks to this, including:
 
 ## 🛠️ Known issues
 Currently, Version `1.1` contains many bugs including *multiple* ***unnecessary*** tabs upon execution causing your machine to freeze.\
-Also, the logo won't load which will be fixed in the next update.
+Also, the logo won't load which will be fixed in the next update.\
+Issue supposedly fixed in version `1.2.` Open an issue if issue still persists.
 
 ```Please use an older version (1.0) for now while a hotfix is in-progress.```
 
 ## 💾 Compatibility
-> Tested for Windows 10 with Python 3.9.9.\
+> Tested for Windows 10 with Python 3.9\
 > Issues on other systems can be openly reported.
 
 ## 📎 Installation
@@ -70,8 +71,6 @@ import discord_lite
 After that, open `Discord-Lite.exe` from your desktop.\
 You should be able to use Discord just as you can with any other client. :D
 
-## ⌨️ Additional Features
-* Screenshot: Press your `tab` key in the window/tab you are in to take a screenshot.
 
 ## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
 Join our [Discord server](https://discord.gg/EwY2aZMn6t) for any further Announcments!\
