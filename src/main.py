@@ -18,6 +18,7 @@ def class_runner():
                 self.setFeaturePermission(url, feature, QWebEnginePage.PermissionGrantedByUser)
             else:
                 self.setFeaturePermission(url, feature, QWebEnginePage.PermissionDeniedByUser)
+        
 
     app = QApplication(sys.argv)
     app.setApplicationName("Discord Lite")
