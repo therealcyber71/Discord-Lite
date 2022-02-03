@@ -4,8 +4,6 @@ from PyQt5.QtCore import QUrl
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
-from multiprocessing import Process
-
 
 def class_runner():
     class WebEnginePage(QWebEnginePage):
@@ -31,13 +29,4 @@ def class_runner():
     scriptDir = os.path.dirname(os.path.realpath(__file__))
     app.setWindowIcon(QIcon(scriptDir + os.path.sep + 'logo4.png'))
     app.exec_()
-def screen_shot():
-    import scrotrem
-def runn():
-    p1 = Process(target=class_runner) # create a process object p1
-    p1.start()                   # starts the process p1
-    p2 = Process(target=screen_shot)
-    p2.start()
-if __name__ == '__main__':
-    
-    runn()
+
