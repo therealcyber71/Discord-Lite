@@ -27,14 +27,15 @@ Preference will be given to those who can solve the drawback issues or implement
 Happy Coding, nonetheless! ^^
 
 ## 📃 To-Do List
-> Working Image Links through the client.\
-> Live-Streaming Support.
-> In some instances the VC doesnt work and opens many isntances of discord lite in the second version.\
+> Fix audio issues.
+> Make proper wiki and documentation.
+> Solve JavaScript errors through QT.
 
 ## 💢 Drawbacks
 There are a few drawbacks to this, including:
 - Streaming won't work.
-- Videos load **in**consistently.(`.mov` videos load properly.)
+- Videos load **in**consistently.(`.mov` and `.webm` videos load properly.)
+
 
 ### ...and that's about it.
 
