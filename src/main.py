@@ -29,4 +29,4 @@ def class_runner():
     scriptDir = os.path.dirname(os.path.realpath(__file__))
     app.setWindowIcon(QIcon(scriptDir + os.path.sep + 'logo4.png'))
     app.exec_()
-
+class_runner()
