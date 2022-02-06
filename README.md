@@ -19,35 +19,32 @@ This is simply a Discord Web Instance running in a "Custom Browser" to reduce me
 
 ## 👀 Inspiration & Sources
 This is basically a modified version of the [*Geeks For Geeks*](https://www.geeksforgeeks.org/) tutorial on ["How to Make a Web Browser using PyQt5"](https://www.geeksforgeeks.org/creating-a-simple-browser-using-pyqt5/).\
-So, I decided to modify it into a Discord Client since it runs Google Instances so well.
+So, I decided to modify it into a web-based Discord Client since it runs Google instances so well.
 
 ## 👋 Contributions
 Any useful contribution are welcome.\
 Preference will be given to those who can solve the drawback issues or implement the To-Do List features in their PR.\
 Happy Coding, nonetheless! ^^
 
-## 📃 To-Do List
-> Fix audio issues.\
-> Make proper wiki and documentation.\
-> Solve JavaScript errors through QT.\
-
 ## 💢 Drawbacks
 There are a few drawbacks to this, including:
 - Streaming won't work.
-- Videos load **in**consistently.(`.mov` and `.webm` videos load properly.)
+- Videos other than `.mov` and `.webm` formats load **in**consistently.
 
+## 📃 To-Do List
+> Fix Audio issues.\
+> Make proper Wiki and Documentation.\
+> Solve JavaScript errors through QT.
 
 ### ...and that's about it.
 
 ## 🛠️ Known issues
-Currently, Version `1.1` contains many bugs including *multiple* ***unnecessary*** tabs upon execution causing your machine to freeze.\
-Also, the logo won't load which will be fixed in the next update.\
-Issue supposedly fixed in version `1.2.` Open an issue if issue still persists.
-
-```Please use an older version (1.0) for now while a hotfix is in-progress.```
+~~Currently, Version `1.1` contains many bugs including *multiple* ***unnecessary*** tabs open upon execution causing your machine to freeze.\
+The logo won't load which will be fixed in the next update.~~\
+Supposedly fixed in version `1.2`. Open an issue, if this still persists.
 
 ## 💾 Compatibility
-> Tested for Windows 10 with Python 3.9\
+> Tested for Windows 10/11 with Python 3.9\
 > Issues on other systems can be openly reported.
 
 ## 📎 Installation
@@ -57,21 +54,19 @@ Issue supposedly fixed in version `1.2.` Open an issue if issue still persists.
 pip3 install discord_lite
 ```
 
-..then in your python file:
+...then in your python file:
 
 ```python
 import discord_lite
 ```
 
-* Windows
-> Install the `.exe` from this [source.](https://github.com/Sachit71/Discord-Lite/tree/main/installer)
-
-**Note:** This is only the installer that setups the application for you.
+* `Windows`
+> For now, Install the `.zip` from this [source.](https://github.com/Sachit71/Discord-Lite/releases/tag/PyQt5)
+> Navigate to `Discord-Lite-PyQt5\src`, then run `main.py`.
 
 After that, open `Discord-Lite.exe` from your desktop.\
 You should be able to use Discord just as you can with any other client. :D
 
-
 ## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
-Join our [Discord server](https://discord.gg/EwY2aZMn6t) for any further Announcments!\
+Join our [Discord server](https://discord.gg/EwY2aZMn6t) for further Updates & Announcements!\
 If you're in need of any other technical assistance, you may contact me on Discord: `cyber#8664`
