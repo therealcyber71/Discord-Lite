@@ -1,3 +1,0 @@
-PyAutoGUI
-PyQt5
-PyQtWebEngine
