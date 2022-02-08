@@ -61,7 +61,7 @@ import discord_lite
 ```
 
 * `Windows`
-> For now, Install the `.zip` from this [source.](https://github.com/Sachit71/Discord-Lite/releases/tag/PyQt5)
+> For now, Install the `.zip` from this [source.](https://github.com/Sachit71/Discord-Lite/blob/main/installer/Discord-Lite-1.2.exe)
 > Navigate to `Discord-Lite-PyQt5\src`, then run `main.py`.
 
 After that, open `Discord-Lite.exe` from your desktop.\
