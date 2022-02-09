@@ -1,5 +1,5 @@
 # [![Logo by u/Hoodie-the-Wolf](https://i.imgur.com/D0fAK42.png)](https://www.reddit.com/user/Hoodie-the-Wolf/) Discord-Lite
-A Light-Weight Discord Client written in **Python** for developers, by a developer. \
+A Light-Weight Discord Client written in **Python** for developers, by developers. \
 More in the [wiki](https://github.com/Sachit71/Discord-Lite/wiki)
 ## ❓ Explanation
 You may have possibly heard and used Discord once in your life, right?
