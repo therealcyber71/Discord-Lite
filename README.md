@@ -32,8 +32,6 @@ There are a few drawbacks to this, including:
 - Videos other than `.mov` and `.webm` formats load **in**consistently.
 
 ## 📃 To-Do List
-> Fix Audio issues.\
-> Make proper Wiki and Documentation.\
 > Solve JavaScript errors through QT.
 
 ### ...and that's about it.
