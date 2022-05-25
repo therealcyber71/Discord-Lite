@@ -67,6 +67,4 @@ You should be able to use Discord just as you can with any other client. :D
 
 ## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
 Join our [Discord server](https://discord.gg/EwY2aZMn6t) for further Updates & Announcements!\
-# Note:
-Discord has been banning my account for no apparent reason at all, and fails to provide a reason, due to which the next release will be the final release for the Windows operating system. \
-The Linux and MacOS versions will be developed and released too, once that's done the project will not be actively maintained, due to arrogance and ignorance on Discord's part.
+
