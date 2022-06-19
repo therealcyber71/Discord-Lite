@@ -11,6 +11,8 @@ Hence, why `Discord-Lite` was made.
 It uses less memory and loads GIFs faster compared to the Client and Website version of Discord.\
 It also supports sending & recieving Images, Videos, and other files.
 
+### ***Note: Do not download from the releases page, instead head over to the installer directory and install from [this](https://github.com/therealcyber71/Discord-Lite/blob/main/installer/Discord-Lite-1.2.exe) link. Due to some mistake on our side, the v1.1 gets downloaded, hence please refrain from downloading the installer from releases and use the link provided. Sorry for the inconvenience caused!***
+
 ## ⭐ Clarifications
 This isn't any over-the-top "client" of such.\
 This is simply a Discord Web Instance running in a "Custom Browser" to reduce memory usage and *not* feast on your RAM.
