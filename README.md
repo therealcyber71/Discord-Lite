@@ -68,5 +68,5 @@ After that, open `Discord-Lite.exe` from your desktop.\
 You should be able to use Discord just as you can with any other client. :D
 
 ## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
-Join our [Discord server](https://discord.gg/EwY2aZMn6t) for further Updates & Announcements!\
+Join our [Discord server](https://discord.gg/EwY2aZMn6t) for further Updates & Announcements!
 
