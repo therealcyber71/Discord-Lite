@@ -33,7 +33,10 @@ Happy Coding, nonetheless! ^^
 Known drawbacks solved!
 
 ## 📃 To-Do List
-No tasks pending!
+* MacOS support
+* Linux support
+* Support for Raspberry pi and other development boards!
+* Rich presence
 
 ### ...and that's about it.
 
