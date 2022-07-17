@@ -48,7 +48,7 @@ None reported yet, feel free to open an issue or report any problem on our Disco
 
 
 * Currently supported for Windows only, other OS support in development. \
-You can download the Installer from the Discord Lite website.
+You can download the Installer from [this](https://github.com/therealcyber71/Discord-Lite/releases/download/discordlite/Discord.Lite.v1.3.Installer.exe) link.
 
 After that, open `Discord-Lite.exe` from your desktop.\
 You should be able to use Discord just as you can with any other client. :D
