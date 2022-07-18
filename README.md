@@ -59,3 +59,6 @@ You should be able to use Discord just as you can with any other client. :D
 ## [![Logo by u/anatom3000](https://i.imgur.com/cooZgSL.png)](https://www.reddit.com/user/anatom3000/) Discord 
 Join our [Discord server](https://discord.gg/EmFVyJugPz) for further Updates & Announcements!
 
+## Support the Project!
+Donate some ETH to keep the project going! 
+`MATIC (Polygon) and ETH Address: 0x45A416E004f6b5aAC88EA93C1A6E4EAF4C1F043f`
