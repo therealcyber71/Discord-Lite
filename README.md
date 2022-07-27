@@ -41,7 +41,8 @@ Known drawbacks solved!
 ### ...and that's about it.
 
 ## 🛠️ Known issues
-None reported yet, feel free to open an issue or report any problem on our Discord.
+Blank white page, this happens because you do not have webview2 installed, you can easily solve this problem by installing webview2 from [this](https://docs.microsoft.com/en-us/microsoft-edge/webview2/concepts/distribution) link.
+To know more about it, read the [docs](https://pywebview.flowrl.com/guide/renderer.html)!
 
 ## 💾 Compatibility
 > Tested for Windows 10/11 with Python 3.9\
